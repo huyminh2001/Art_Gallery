@@ -2,6 +2,9 @@
 
 Galleria is a globally recognized art gallery specializing in a diverse range of paintings. As part of its effort to enhance user experience and brand visibility, Galleria seeks a complete redesign of its website. This project will transform the website's look and feel to create a user-friendly and visually appealing platform, showcasing the gallery's paintings and categorizing them by painting style, surface, and color type.
 
+## Note
+This Project is build with Laravel framework, MySQL as database, and XAMPP as local server.
+
 ## Project Overview
 
 This project involves redesigning the Galleria website to provide a cohesive, professional, and user-centric experience for visitors. The new website will:
