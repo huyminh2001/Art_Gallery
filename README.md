@@ -67,3 +67,4 @@ To set up the project locally:
 1. Clone the repository:
    ```bash
    git clone https://github.com/YourUsername/Galleria-Website-Revamp.git
+2. Install XAMPP and use the configuration file in this repo.
